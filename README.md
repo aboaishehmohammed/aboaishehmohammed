@@ -59,7 +59,7 @@ I’m focused on sharpening my skills in:
   
   
 <p align="left">
-      <a href="[https://www.linkedin.com/in/mansourelbashabsheh/](https://www.linkedin.com/in/mohammed-aboaisheh/)" target="_blank" rel="noreferrer">
+      <a href="https://www.linkedin.com/in/mohammed-aboaisheh/" target="_blank" rel="noreferrer">
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
